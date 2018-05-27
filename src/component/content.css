@@ -1,0 +1,16 @@
+.ContentBox1{
+    width: 200px;
+    height: 200px;
+    margin-right: 10px;
+    float: left;
+  }
+  .ContentBox2{
+    width: 500px;
+    height: 300px;
+    margin-right: 10px;
+    float: left; 
+  }
+
+  .Hero .content p {
+    padding-top: 60px;
+}
